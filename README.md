@@ -120,8 +120,13 @@ The interface offers:
 The system provides a JSON API endpoint at `/status` that returns current position, target position, and operational state.
 
 ## Project Images
+### Complete Setup
 ![Complete Setup](https://github.com/user-attachments/assets/29987295-71c2-46f6-b6d6-9a0ad8443a06)
+
+### Controller Box
 ![Controller Box](https://github.com/user-attachments/assets/bcea2902-0e48-4ac9-80b4-3086d0ee6d5f)
+
+### Web Interface
 ![Web Interface](https://github.com/user-attachments/assets/607cacd4-f4b3-4e02-a4c6-9a9d132fecde)
 
 ## Video Demonstration

@@ -29,7 +29,7 @@ Here's a complete list of components needed for this project:
 | 1 | 2.1mm Barrel Jack | With terminal block for power input |
 | 2 | Push Buttons | Momentary, normally open |
 | 1 | Capacitor | 100uF, 25V (for power stabilization) |
-| 1 | Power Supply | 12V DC (not included in list) |
+| 1 | Power Supply | 12V DC at least 1,5A|
 | - | Various Wires | For connections between components |
 
 ## How It Works
